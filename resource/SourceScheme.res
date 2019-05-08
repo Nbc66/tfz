@@ -35,6 +35,5 @@ Scheme
 	CustomFontFiles
 	{
 		"9"		"resource/TF2Build.ttf"
-		"10"    "resource/ComicSansMS3"
 	}
 }

@@ -850,7 +850,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Comic Sans MS"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -923,7 +923,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Comic Sans MS"
+				"name"		"TF2"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1116,7 +1116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Comic Sans MS"
+				"name"		"TF2"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1875,10 +1875,6 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
-		}
-		"7"
-		{
-		 "font" "resource/ComicSansMS3"
 		}
 	}
 
